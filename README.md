@@ -11,13 +11,16 @@ This workshop is for software developers and architects who wants to get started
 ## Workshop Structure
 
 * [Background information](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
-* Prerequisites
-* Installing and configuring dapr
-* HOL 1 - Hello Dapr
-* HOL 2 - Implementing service to service invocation with dapr
-* HOL 3 - Implementing pub-sub with dapr
-* HOL 4 - Implementing a distributed calculator
+* [Prerequisites](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
+* [Installing and configuring dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
+* [HOL 1 - Hello Dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
+* [HOL 2 - Implementing service to service invocation with dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
+* [HOL 3 - Implementing pub-sub with dapr]
+* [HOL 4 - Implementing a distributed calculator]
 
 ## Feedback
 
 Please let us know if you have any feedback about this workshop. We would love to hear back from you and improve this workshop
+
+## References
+Dapr website - http://www.dapr.io
