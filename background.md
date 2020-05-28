@@ -10,9 +10,9 @@ Cloud native applications uses containers, APIs, microservices architecture and 
  
  * You need to design your application as set of independent services. Each of these service should model around the business domain.
  * You need to choose right technology stack for each service.
- * 
- *
- *
+ * These services should have well defined interfaces. You need to keep these interface consistent so that changes in these services does not break other services which are choosing them
+ * You need to handle distributed transaction across services
+ * And many more ...
  
 Each microservices application has some common set of challanges -
 * Service to service invocation
