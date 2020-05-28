@@ -10,7 +10,7 @@ This workshop is for software developers and architects who wants to get started
 
 ## Workshop Structure
 
-* [] [Background information] (./background.md)
+* [Background information](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
 * Prerequisites
 * Installing and configuring dapr
 * HOL 1 - Hello Dapr
