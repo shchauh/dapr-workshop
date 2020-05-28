@@ -1,7 +1,7 @@
 /* Contents of {repository-root}/.devcontainer/devcontainer.json */
 
 {
-  // Install dapr extensions
+  // Install dapr extension
   "extensions": [
       "ms-azuretools.vscode-dapr"
   ],
