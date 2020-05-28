@@ -1,0 +1,10 @@
+/* Contents of {repository-root}/.devcontainer/devcontainer.json */
+
+{
+  // Install dapr extensions
+  "extensions": [
+    "  ],
+
+  // Run Bash script in .devcontainer directory
+  "postCreateCommand": "/bin/bash setup-dapr.sh",
+}
