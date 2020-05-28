@@ -5,7 +5,7 @@ A workshop for getting started with building microservices applications with Dis
 ## Workshop Overview & Goals
 
 ## Target Audience
-This workshop is for a software developer and architects who wants to get started with building microservices applications. 
+This workshop is for software developers and architects who wants to get started with building microservices applications with dapr. 
 
 ## Workshop Structure
 
