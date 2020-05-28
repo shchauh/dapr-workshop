@@ -3,7 +3,8 @@
 {
   // Install dapr extensions
   "extensions": [
-    "  ],
+      "ms-azuretools.vscode-dapr"
+  ],
 
   // Run Bash script in .devcontainer directory
   "postCreateCommand": "/bin/bash setup-dapr.sh",
