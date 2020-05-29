@@ -11,7 +11,7 @@ Learn how to build microservices applications using dapr. We will build sample m
 
 #### This workshop is not:
 * A Kubernetes workshop
-* An introduction into microservices or containers
+* An  into microservices or containers
 * A way to learn new programming languages
 
 
