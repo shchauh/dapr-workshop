@@ -1,4 +1,4 @@
-## Introduction
+## Cloud Native Applications
 
 Cloud has changed the way we develop our applications. Cloud provides benefits like - agility, availability, scalability, resiliency and many more. To make most out of these benefits, we need to choose correct architecture and processes for developing our applications. We need to develop applications in "Cloud Native" way.
 
