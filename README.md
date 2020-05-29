@@ -20,7 +20,6 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 ## Workshop Structure
 
 * [Background information](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
-* [Prerequisites](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [Installing and configuring dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [HOL 1 - Hello Dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [HOL 2 - Implementing service to service invocation with dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
