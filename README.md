@@ -1,5 +1,6 @@
 # Building cloud native appplications with Distributed Application Runtime(Dapr)
-A workshop for getting started with building microservices applications with Distributed Application Runtime(Dapr)
+
+This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr)
 
 
 ## Workshop Overview & Goals
@@ -21,7 +22,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 * [Background information](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
 * [Installing and configuring dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
-* [HOL 1 - Hello Dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
+* [HOL 1 - Hello Dapr](https://github.com/dapr/samples/tree/master/1.hello-world)
 * [HOL 2 - Implementing service to service invocation with dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [HOL 3 - Implementing pub-sub with dapr]
 * [HOL 4 - Implementing a distributed calculator]
