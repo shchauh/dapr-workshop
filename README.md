@@ -8,6 +8,15 @@ Learn how to build microservices applications using dapr. We will build sample m
 ## Target Audience
 This workshop is for software developers and architects who wants to get started with building microservices applications with dapr. 
 
+## Dapr
+
+Microservices applications are a kind of "ditributed application". Microservices applications are made by a number of services communicating with each other with standard APIs like http or gRpc. These services can be stateless or stateful. 
+ 
+Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, secret managment etc. Dapr helps to solve these common challanges and let developer focus more on building business functionality, instead of implementing common scenarios.
+
+For more information check [Dapr overview](https://github.com/dapr/docs/tree/master/overview)
+
+
 ## Workshop Structure
 
 * [Background information](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
@@ -24,3 +33,7 @@ Please let us know if you have any feedback about this workshop. We would love t
 
 ## References
 Dapr website - http://www.dapr.io
+
+[.NET Architecture Guidance](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+
+[Microservices architecture e-book](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)
