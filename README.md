@@ -37,7 +37,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 ## Workshop Structure
 
-* [Background information](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
+* [Cloud Native Applications](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
 * [Installing and configuring dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [HOL 1 - Hello Dapr](https://github.com/dapr/samples/tree/master/1.hello-world)
 * [HOL 2 - Implementing service to service invocation with dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
