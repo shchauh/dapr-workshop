@@ -5,11 +5,11 @@ This workshop is for getting started with building microservices applications wi
 ## Overview & Goals
 Learn how to build microservices applications using dapr. We will build sample microservices which will use dapr for implementing different scenarios like service to service invocation, pub-sub, state management, secret management etc.
 
-### This workshop is:
+#### This workshop is:
 * An introduction to Dapr and how it enables developers to build resilient, stateful and stateless applications
 * Build microservices application with Dapr
 
-### This workshop is not:
+#### This workshop is not:
 * A Kubernetes workshop
 * An introduction into microservices or containers
 * A way to learn new programming languages
