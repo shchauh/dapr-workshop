@@ -8,6 +8,8 @@ Install dapr by following these [Instructions](https://github.com/dapr/docs/blob
 
 ## Install .Net core 3.1
 
+## Install Git
+
 ## Install Visual Studio Code
 
 ## Install Node.js
