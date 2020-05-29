@@ -6,12 +6,13 @@ For the purpose of this workshop we need to install following prerequisites
 ## Install Dapr
 Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
 
-## Install .Net core 3.1
-
 ## Install Git
 
 ## Install Visual Studio Code
 
+## Install .Net core 3.1
+
 ## Install Node.js
 
 ## Install Python
+
