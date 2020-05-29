@@ -2,16 +2,19 @@
 
 This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr)
 
-## Prerequites
-Its expectecd to have understanding of following concepts
- - Distributed systems
- - Microservices architecture
- 
 ## Workshop Overview & Goals
 Learn how to build microservices applications using dapr. We will build sample microservices which will use dapr for implementing different scenarios like service to service invocation, pub-sub, state management, secret management etc.
 
 ## Target Audience
 This workshop is for software developers and architects who wants to get started with building microservices applications with dapr. 
+
+## Prerequites
+Its expectecd to have understanding of some following concepts
+ - Distributed systems
+ - Microservices architecture
+ 
+ Working knowledge of 
+ - Visual studio code or visual studio
 
 ## Dapr
 
