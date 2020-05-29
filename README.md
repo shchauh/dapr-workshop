@@ -24,8 +24,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [Installing and configuring dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [HOL 1 - Hello Dapr](https://github.com/dapr/samples/tree/master/1.hello-world)
 * [HOL 2 - Implementing service to service invocation with dapr](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
-* [HOL 3 - Implementing pub-sub with dapr]
-* [HOL 4 - Implementing a distributed calculator]
+* [HOL 3 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
+* [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 
 ## Feedback
 
