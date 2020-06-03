@@ -18,7 +18,7 @@ Install Node.js version 8 or greater from [here](https://nodejs.org/en/)
 ## Install Python
 Install Python 3.x from [here](https://www.python.org/downloads/)
 
-## Install Postman
+## Install Postman [Optional]
 Install Postman from [here](https://www.postman.com/)
 
 ## Install Visual Studio Code
