@@ -22,5 +22,5 @@ Install Python 3.x from [here](https://www.python.org/downloads/)
 Install Postman from [here](https://www.postman.com/)
 
 ## Install Visual Studio Code
-Install Visual Studio Code from (here)[https://code.visualstudio.com/]
+Install Visual Studio Code from [here](https://code.visualstudio.com/)
 
