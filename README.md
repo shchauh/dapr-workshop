@@ -11,7 +11,7 @@ Learn how to build microservices applications using dapr. We will build sample m
 
 #### This workshop is not:
 * A Kubernetes workshop
-* An  into microservices or containers
+* An introduction to microservices or containers, though some [background](https://github.com/shchauh/dapr-workshop/blob/master/background.md) is provided
 * A way to learn new programming languages
 
 
@@ -19,16 +19,18 @@ Learn how to build microservices applications using dapr. We will build sample m
 This workshop is for software developers and architects who wants to get started with building microservices applications with dapr. 
 
 ## Prerequites
-Its expectecd to have understanding of some following concepts
+It is expectecd to have understanding of some of the following concepts
  - Distributed systems
  - Microservices architecture
  
  Working knowledge of 
  - Visual studio code or visual studio
+ - Docker and containers
+ 
 
 ## Dapr
 
-Microservices applications are a kind of "ditributed application". Microservices applications are made by a number of services communicating with each other with standard APIs like http or gRpc. These services can be stateless or stateful. 
+Microservices applications are a type of a "ditributed applications". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRpc over well defined interfaces. These services can be stateless or stateful. 
  
 Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, secret managment etc. Dapr helps to solve these common challanges and let developer focus more on building business functionality, instead of implementing common scenarios.
 
