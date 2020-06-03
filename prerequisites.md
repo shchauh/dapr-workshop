@@ -24,3 +24,8 @@ Install Postman from [here](https://www.postman.com/)
 ## Install Visual Studio Code
 Install Visual Studio Code from [here](https://code.visualstudio.com/)
 
+### Visual Studio Code extenstions
+- C# extension from Microsoft - [link](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+- Dapr extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr)
+- Python extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
