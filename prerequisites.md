@@ -7,12 +7,20 @@ For the purpose of this workshop we need to install following prerequisites
 Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
 
 ## Install Git
+Install git from [here](https://git-scm.com/downloads)
 
-## Install Visual Studio Code
-
-## Install .Net core 3.1
+## Install .Net core 3.1 SDK
+Install .Net core 3.1 SDK from [here](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 ## Install Node.js
+Install Node.js version 8 or greater from [here](https://nodejs.org/en/)
 
 ## Install Python
+Install Python 3.x from [here](https://www.python.org/downloads/)
+
+## Install Postman
+Install Postman from [here](https://www.postman.com/)
+
+## Install Visual Studio Code
+Install Visual Studio Code from (here)[https://code.visualstudio.com/]
 
