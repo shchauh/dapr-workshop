@@ -52,6 +52,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 ## What you have learned ??
 - What is Dapr and how to use it
 
+## Next Steps
+
 ## Feedback
 
 Please let us know if you have any feedback about this workshop. We would love to hear back from you and improve this workshop
