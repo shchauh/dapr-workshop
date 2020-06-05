@@ -7,6 +7,7 @@ For the purpose of this workshop we need to install following prerequisites
  
 ## Install Dapr
 Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
+
 You will need to install Docker prior to installing dapr. More information can be be found on above link.
 
 ## Install Git
