@@ -43,8 +43,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [Setup](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [Source code](https://github.com/shchauh/dapr-workshop/blob/master/source-code.md)
 * [HOL 1 - Hello Dapr](https://github.com/dapr/samples/tree/master/1.hello-world)
-     * [HOL 1.1 - State management] 
-     * [HOL 1.2 - Service to service invocation]
+     * HOL 1.1 - State management 
+     * HOL 1.2 - Service to service invocation
 * [HOL 2 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 3 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 
