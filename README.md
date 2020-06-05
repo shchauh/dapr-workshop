@@ -48,6 +48,9 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [HOL 2 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 3 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 
+## What you have learned ??
+- What is Dapr and how to use it
+
 ## Feedback
 
 Please let us know if you have any feedback about this workshop. We would love to hear back from you and improve this workshop
