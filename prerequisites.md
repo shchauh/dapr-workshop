@@ -34,4 +34,6 @@ Install Visual Studio Code from [here](https://code.visualstudio.com/)
 - C# extension from Microsoft - [link](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - Dapr extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-dapr)
 - Python extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- Go extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
+- Redis extension - [link](https://marketplace.visualstudio.com/items?itemName=Dunn.redis)
 
