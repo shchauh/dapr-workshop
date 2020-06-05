@@ -36,4 +36,5 @@ Install Visual Studio Code from [here](https://code.visualstudio.com/)
 - Python extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - Go extension - [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
 - Redis extension - [link](https://marketplace.visualstudio.com/items?itemName=Dunn.redis)
+- REST client for VS code - [link](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
