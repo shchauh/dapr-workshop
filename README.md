@@ -64,6 +64,8 @@ Please let us know if you have any feedback about this workshop. We would love t
 ## References
 Dapr website - http://www.dapr.io
 
+Get involved with dapr community
+
 [.NET Architecture Guidance](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 
 [Microservices architecture e-book](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)
