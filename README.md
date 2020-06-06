@@ -8,6 +8,7 @@ Learn how to build microservices applications using dapr. We will build sample m
 #### This workshop is:
 * An introduction to Dapr and how it enables developers to build resilient, stateful and stateless microservices applications
 * Build microservices application with Dapr
+* *We will run all samples in self hosted mode. No kubernetes installation is needed as part of this workshop, but can be considered for next steps*
 
 #### This workshop is not:
 * A Kubernetes workshop
@@ -50,9 +51,12 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [HOL 4 - Implement distributed tracing on HOL 3(https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
 
 ## What you have learned ??
-- What is Dapr and how to use it
+- Dapr
+
 
 ## Next Steps
+- Learn more about dapr at [dapr.io](dapr.io)
+- Try out more samples [here](https://github.com/dapr/samples)
 
 ## Feedback
 
