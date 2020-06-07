@@ -63,7 +63,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 ## Next Steps
 - Learn more about Dapr at [dapr.io](dapr.io)
 - Try out more samples [here](https://github.com/dapr/samples)
-- Try .Net Dapr SDK [here](https://github.com/dapr/dotnet-sdk) and check the samples specifically the ASP.NET core samples [here](https://github.com/dapr/dotnet-sdk/tree/master/samples)
+- Try .Net Dapr SDK [here](https://github.com/dapr/dotnet-sdk)
+- [HOL 5 - ASP.NET core samples ](https://github.com/dapr/dotnet-sdk/tree/master/samples)
 
 ## Feedback
 
