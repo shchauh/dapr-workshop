@@ -7,30 +7,30 @@ Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime 
 For the purpose of this workshop we need to install following softwares and tools -
 
  
-## Install Dapr
+## Dapr
 Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
 
 You will need to install Docker prior to installing dapr. More information can be be found on above link.
 
-## Install Git
+## Git
 Install git from [here](https://git-scm.com/downloads)
 
-## Install .Net core 3.1 SDK
+## .Net core 3.1 SDK
 Install .Net core 3.1 SDK from [here](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
-## Install Node.js
+## Node.js
 Install Node.js version 8 or greater from [here](https://nodejs.org/en/)
 
-## Install Python
+## Python
 Install Python 3.x from [here](https://www.python.org/downloads/)
 
-## Install Go
+## Go
 Install Go from [here](https://golang.org/)
 
-## Install Postman [Optional]
+## Postman [Optional]
 Install Postman from [here](https://www.postman.com/)
 
-## Install Visual Studio Code
+## Visual Studio Code
 Install Visual Studio Code from [here](https://code.visualstudio.com/)
 
 ### Visual Studio Code extenstions
