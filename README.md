@@ -55,15 +55,15 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 
 ## What you will learn during this workshop
-- Learn about dapr
+- Learn about Dapr
 - Setup a development environment for using dapr (self-hosted mode)
 - Implement different scenarios like state management, service to service invocation, pub-sub.
 
 
 ## Next Steps
-- Learn more about dapr at [dapr.io](dapr.io)
+- Learn more about Dapr at [dapr.io](dapr.io)
 - Try out more samples [here](https://github.com/dapr/samples)
-- Try .Net dapr SDKs [here](https://github.com/dapr/dotnet-sdk) and check the samples specifically the ASP.NET core samples [here](https://github.com/dapr/dotnet-sdk/tree/master/samples)
+- Try .Net Dapr SDK [here](https://github.com/dapr/dotnet-sdk) and check the samples specifically the ASP.NET core samples [here](https://github.com/dapr/dotnet-sdk/tree/master/samples)
 
 ## Feedback
 
