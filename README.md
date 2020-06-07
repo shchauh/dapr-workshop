@@ -16,7 +16,7 @@ Learn how to build microservices applications using dapr. We will build sample m
 * An introduction to microservices or containers, though some [background](https://github.com/shchauh/dapr-workshop/blob/master/background.md) is provided
 * A way to learn new programming languages
 
-> Ignore the Kubernetes section of each HOL
+> Ignore the Kubernetes section of each hans-on lab
 
 
 ## Target Audience
