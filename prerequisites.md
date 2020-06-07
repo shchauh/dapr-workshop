@@ -1,4 +1,4 @@
-This sections provides information on softwares and tools we need to do hands-on labs for this workshop.
+This sections provides information on softwares and tools, we will need to do hands-on labs for this workshop.
 
 Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime in self-hosted mode enables you to develop dapr applications in your local development environment and then deploy and run them in other supported environments. For example, you can develop Dapr applications in self-hosted mode and then deploy them to any Kubernetes cluster.
 
