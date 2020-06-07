@@ -73,7 +73,7 @@ Please let us know if you have any feedback about this workshop. We would love t
 ## References
 Dapr website - http://www.dapr.io
 
-Get involved with dapr community
+Get involved with dapr community [here](https://aka.ms/dapr-community)
 
 [.NET Architecture Guidance](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 
