@@ -47,8 +47,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [Source code](https://github.com/shchauh/dapr-workshop/blob/master/source-code.md)
 * [HOL 1 - "Hello world" with dapr](https://github.com/dapr/samples/tree/master/1.hello-world)     
 * [HOL 2 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
-* [HOL 3 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
-* [HOL 4 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
+* [HOL 3 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
+* [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 
 > Ignore the Kubernetes section of each HOL. 
 
@@ -61,6 +61,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 ## Next Steps
 - Learn more about dapr at [dapr.io](dapr.io)
 - Try out more samples [here](https://github.com/dapr/samples)
+- Try different dapr SDKs at https://github.com/dapr(https://github.com/dapr)
 
 ## Feedback
 
