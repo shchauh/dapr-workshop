@@ -42,6 +42,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 ## Workshop Structure
 
+> Ignore the Kubernetes section of each HOL. 
+
 * [Cloud Native Applications](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
 * [Prerequisites](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [Source code](https://github.com/shchauh/dapr-workshop/blob/master/source-code.md)
@@ -50,7 +52,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [HOL 3 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
 * [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 
-> Ignore the Kubernetes section of each HOL. 
+
 
 ## What you will learn during this workshop
 - Learn about dapr
