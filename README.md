@@ -9,7 +9,7 @@ Learn how to build microservices applications using dapr. We will build sample m
 * An introduction to dapr and how it enables developers to build resilient, stateful and stateless microservices applications
 * Build microservices application with dapr
 
-> We will run all samples in self hosted mode. No kubernetes installation is needed as part of this workshop, but can be considered for next steps section
+> We will run all samples in self hosted mode. No kubernetes installation is needed as part of this workshop, but can be considered as stretch goal
 
 #### This workshop is not:
 * A Kubernetes workshop
