@@ -52,10 +52,10 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 > Ignore the Kubernetes section of each HOL. 
 
-## What you will learn after this workshop
+## What you will learn during this workshop
 - Learn about dapr
 - Setup a development environment for using dapr (self-hosted mode)
-- Implement different scenarios like state management, service to service invocation, pub-sub, 
+- Implement different scenarios like state management, service to service invocation, pub-sub.
 
 
 ## Next Steps
