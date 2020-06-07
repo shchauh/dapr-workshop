@@ -16,6 +16,8 @@ Learn how to build microservices applications using dapr. We will build sample m
 * An introduction to microservices or containers, though some [background](https://github.com/shchauh/dapr-workshop/blob/master/background.md) is provided
 * A way to learn new programming languages
 
+> Ignore the Kubernetes section of each HOL
+
 
 ## Target Audience
 This workshop is for software developers and architects who wants to get started with building microservices applications with dapr. 
@@ -47,6 +49,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [HOL 2 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 3 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 * [HOL 4 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
+
+> Ignore the Kubernetes section of each HOL. 
 
 ## What you will learn after this workshop
 - Learn about dapr
