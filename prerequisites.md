@@ -6,11 +6,13 @@ Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime 
 
 For the purpose of this workshop we need to install following softwares and tools -
 
+## Docker
+Install Docker from [here](https://docs.docker.com/get-docker/)
  
 ## Dapr
 Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
 
-You will need to install Docker prior to installing dapr. More information can be be found on above link.
+> You will need to install Docker prior to installing dapr. More information can be be found on above link.
 
 ## Git
 Install git from [here](https://git-scm.com/downloads)
