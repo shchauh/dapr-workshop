@@ -27,12 +27,10 @@ Install Docker from [here](https://docs.docker.com/get-docker/)
 > Note : You might need to do some manual steps for windows . You check about it [here](https://success.docker.com/article/manually-enable-docker-for-windows-prerequisites)
  
 ## Dapr
-Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
 
 > **Note : We will do most of the hands on labs in this workshop in self-hosted mode.**
-> **Note : Make sure you [Install Dapr in Standalone/Self-hosted mode](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#installing-dapr-in-standalone-mode) from above article.
 
-Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime in self-hosted mode enables you to develop dapr applications in your local development environment and then deploy and run them in other supported environments. For example, you can develop Dapr applications in self-hosted mode and then deploy them to any Kubernetes cluster.
+Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md). Make sure you [Install Dapr in Standalone/Self-hosted mode](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#installing-dapr-in-standalone-mode) from above article.
 
 ## Git
 Install git from [here](https://git-scm.com/downloads)
