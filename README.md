@@ -42,7 +42,6 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 > Ignore the Kubernetes section of each HOL. 
 
-* [Cloud Native Applications](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
 * [Prerequisites](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [Source code](https://github.com/shchauh/dapr-workshop/blob/master/source-code.md)
 * [HOL 1 - Hello Dapr - Implenting state management and service-service invocation](https://github.com/dapr/samples/tree/master/1.hello-world)   
