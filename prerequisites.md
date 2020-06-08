@@ -13,6 +13,7 @@ For all the hands-on labs
 - [Git](#git)
 - [Node](#node)
 - [Python](#python)
+- [Go](#go)
 - [Visual Studio Code](#visual-studio-code)
 
 For hands-on lab 4
