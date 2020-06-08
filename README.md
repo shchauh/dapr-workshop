@@ -2,7 +2,6 @@
 
 This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr).
 
-Table of contents
 - [Overview & Goals](#overview--goals)
 - [Target Audience](#target-audience)
 - [Dapr](#dapr)
