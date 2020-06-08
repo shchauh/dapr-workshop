@@ -11,6 +11,7 @@ For the purpose of this workshop we need to install following softwares and tool
 Install Docker from [here](https://docs.docker.com/get-docker/)
 
 > Note : Make sure you have virtaulization enabled in your system's BIOS
+
 > Note : You might need to do some manual steps for windows . You check about it [here](https://success.docker.com/article/manually-enable-docker-for-windows-prerequisites)
  
 ## Dapr
