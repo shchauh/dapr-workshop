@@ -9,11 +9,11 @@ For the purpose of this workshop we need to install following softwares and tool
 For all the HOLS 
 
 - [Docker](#docker)
-- [Dapr] (#dapr)
-- [Git] (#git)
-- [Node] (#node)
-- [Python] (#python)
-- [Visual Studio Code] (#visual-studio-code)
+- [Dapr](#dapr)
+- [Git](#git)
+- [Node](#node)
+- [Python](#python)
+- [Visual Studio Code](#visual-studio-code)
 
 
 ## Docker
