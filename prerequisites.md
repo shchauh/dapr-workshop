@@ -57,8 +57,7 @@ Install .Net core 3.1 SDK from [here](https://dotnet.microsoft.com/download/dotn
 ## Go
 Install Go from [here](https://golang.org/)
 
-## Postman [Optional]
-Install Postman from [here](https://www.postman.com/)
+
 
 ## Visual Studio Code
 Install Visual Studio Code from [here](https://code.visualstudio.com/)
@@ -75,3 +74,4 @@ Install Visual Studio Code from [here](https://code.visualstudio.com/)
 # Optional
 
 [Powershell](https://github.com/PowerShell/Powershell)
+[Postman](https://www.postman.com/)
