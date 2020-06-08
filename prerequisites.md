@@ -1,6 +1,7 @@
 For the purpose of this workshop we need to install following softwares and tools -
 
-For hands-on labs
+For all hands-on labs
+
 - [Docker](#docker)
 - [Dapr](#dapr)
 - [Git](#git)
