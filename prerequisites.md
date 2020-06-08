@@ -13,12 +13,12 @@ For all the hands-on labs
 - [Git](#git)
 - [Node](#node)
 - [Python](#python)
-- [Go](#go)
 - [Visual Studio Code](#visual-studio-code)
    - [Extenstions](#visual-studio-code-extenstions)
 
 For hands-on lab 4
 
+- [Go](#go)
 - [.Net Core SDK](#net-core-31-sdk)
 
 Optional Tools
