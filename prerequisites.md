@@ -6,6 +6,16 @@ Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime 
 
 For the purpose of this workshop we need to install following softwares and tools -
 
+For all the HOLS 
+
+- Docker (#docker)
+- Dapr (#dapr)
+- Git (#git)
+- Node (#node)
+- Python (#python)
+- Visual Studio Code (#visual-studio-code)
+
+
 ## Docker
 
 Install Docker from [here](https://docs.docker.com/get-docker/)
@@ -22,9 +32,6 @@ Install dapr by following these [Instructions](https://github.com/dapr/docs/blob
 ## Git
 Install git from [here](https://git-scm.com/downloads)
 
-## .Net core 3.1 SDK
-Install .Net core 3.1 SDK from [here](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-
 ## Node.js
 Install Node.js version 8 or greater from [here](https://nodejs.org/en/)
 
@@ -34,6 +41,9 @@ Node installer can also install Python and other tools at the end of the install
 
 ## Python
 Install Python 3.x from [here](https://www.python.org/downloads/)
+
+## .Net core 3.1 SDK
+Install .Net core 3.1 SDK from [here](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 ## Go
 Install Go from [here](https://golang.org/)
