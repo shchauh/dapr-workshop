@@ -36,6 +36,8 @@ Microservices applications are a type of "ditributed systems". Microservices app
  
 Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, pub-sub, secret managment etc. Dapr helps to solve these common challanges and let developer focus on building business functionality, instead of implementing common scenarios for microservices applications.
 
+Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime in self-hosted mode enables you to develop dapr applications in your local development environment and then deploy and run them in other supported environments. For example, you can develop Dapr applications in self-hosted mode and then deploy them to any Kubernetes cluster.
+
 For more information check [Dapr overview](https://github.com/dapr/docs/tree/master/overview)
 
 ## Workshop Structure
@@ -48,8 +50,6 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [HOL 2 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
 * [HOL 3 - Implementing pub-sub](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
-
-
 
 ## What you will learn during this workshop
 - Learn about Dapr
