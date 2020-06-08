@@ -28,6 +28,8 @@ Install .Net core 3.1 SDK from [here](https://dotnet.microsoft.com/download/dotn
 ## Node.js
 Install Node.js version 8 or greater from [here](https://nodejs.org/en/)
 
+Link to download page can be found [here](https://nodejs.org/en/download/)
+
 ## Python
 Install Python 3.x from [here](https://www.python.org/downloads/)
 
