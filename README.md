@@ -1,6 +1,6 @@
 # Building cloud native applications with Distributed Application Runtime(Dapr)
 
-This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr). You can check more about dapr at [dapr.io](https://dapr.io/)
+This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr). You can check more about Dapr at [dapr.io](https://dapr.io/)
 
 ## Overview & Goals
 Learn how to build microservices applications using Dapr. We will build sample microservices which will use Dapr for implementing different scenarios like service to service invocation, pub-sub, state management, secret management etc.
