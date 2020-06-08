@@ -30,7 +30,7 @@ Install Docker from [here](https://docs.docker.com/get-docker/)
 
 > **Note : We will do most of the hands on labs in this workshop in self-hosted mode.**
 
-Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md). Make sure you [Install Dapr in Standalone/Self-hosted mode](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#installing-dapr-in-standalone-mode) from above article.
+Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md). Make sure you [Install Dapr in Standalone/Self-hosted mode](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#installing-dapr-in-standalone-mode) from instructions.
 
 ## Git
 Install git from [here](https://git-scm.com/downloads)
