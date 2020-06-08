@@ -15,7 +15,7 @@ For all the hands-on labs
 - [Python](#python)
 - [Go](#go)
 - [Visual Studio Code](#visual-studio-code)
- - [Extenstions](#visual-studio-code-extenstions)
+   - [Extenstions](#visual-studio-code-extenstions)
 
 For hands-on lab 4
 
