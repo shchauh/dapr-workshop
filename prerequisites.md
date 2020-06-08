@@ -6,7 +6,7 @@ Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime 
 
 For the purpose of this workshop we need to install following softwares and tools -
 
-For all the HOLS 
+For all the hands-on labs
 
 - [Docker](#docker)
 - [Dapr](#dapr)
@@ -14,6 +14,10 @@ For all the HOLS
 - [Node](#node)
 - [Python](#python)
 - [Visual Studio Code](#visual-studio-code)
+
+For hands-on lab 4
+
+- [.Net Core SDK](#net-core-31-sdk)
 
 
 ## Docker
