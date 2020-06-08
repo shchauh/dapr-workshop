@@ -1,7 +1,3 @@
-This sections provides information on softwares and tools, we will need to do hands-on labs for this workshop.
-
-
-
 For the purpose of this workshop we need to install following softwares and tools -
 
 For all the hands-on labs
