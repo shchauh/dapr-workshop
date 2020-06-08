@@ -32,7 +32,7 @@ In this workshop you will learn how to build microservices applications using Da
 ## Target Audience
 This workshop is for software developers and architects who wants to get started with building microservices applications with Dapr. 
 
-## Prerequites
+## Prior knowledge
 It is expectecd to have understanding of some of the following concepts
  - Distributed systems
  - Microservices architecture
