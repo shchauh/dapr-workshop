@@ -31,6 +31,8 @@ Install dapr by following these [Instructions](https://github.com/dapr/docs/blob
 
 > You will need to install Docker prior to installing dapr. More information can be be found on above link.
 
+Make sure you [Install Dapr in Standalone mode] (https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md#installing-dapr-in-standalone-mode)
+
 Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime in self-hosted mode enables you to develop dapr applications in your local development environment and then deploy and run them in other supported environments. For example, you can develop Dapr applications in self-hosted mode and then deploy them to any Kubernetes cluster.
 
 > **Note : We will do most of the hands on labs in this workshop in self-hosted mode.**
