@@ -30,6 +30,8 @@ Install Node.js version 8 or greater from [here](https://nodejs.org/en/)
 
 Link to download page can be found [here](https://nodejs.org/en/download/)
 
+Node installer can also install Python and other tools at the end of the installation. You can choose that also and skip install Python in the next section.
+
 ## Python
 Install Python 3.x from [here](https://www.python.org/downloads/)
 
