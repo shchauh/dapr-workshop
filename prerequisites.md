@@ -8,7 +8,7 @@ For the purpose of this workshop we need to install following softwares and tool
 
 For all the HOLS 
 
-- Docker (#docker)
+- [Docker](#docker)
 - Dapr (#dapr)
 - Git (#git)
 - Node (#node)
