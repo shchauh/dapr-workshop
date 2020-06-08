@@ -2,6 +2,17 @@
 
 This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr). You can check more about Dapr at [dapr.io](https://dapr.io/)
 
+Table of contents
+- [Overview & Goals](#overview--goals)
+- [Target Audience](#target-audience)
+- [Dapr](#dapr)
+- [What you will learn during this workshop](#what-you-will-learn-during-this-workshop)
+- [Workshop Structure](#workshop-structure)
+- [Next Steps](#next-steps)
+- [Feedback](#feedback)
+- [References](#references)
+
+
 ## Overview & Goals
 In this workshop you will learn how to build microservices applications using Dapr. We will build sample microservices which will use Dapr for implementing different scenarios like service to service invocation, pub-sub, state management, secret management etc.
 
@@ -40,6 +51,11 @@ Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime 
 
 For more information check [Dapr overview](https://github.com/dapr/docs/tree/master/overview)
 
+## What you will learn during this workshop
+- Learn about Dapr
+- Setup a development environment for using Dapr (self-hosted mode)
+- Implement different scenarios like state management, service to service invocation, pub-sub, distributed tracing.
+
 ## Workshop Structure
 
 > Ignore the Kubernetes section of each HOL. 
@@ -50,12 +66,6 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [HOL 2 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
 * [HOL 3 - Implementing pub-sub](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
-
-## What you will learn during this workshop
-- Learn about Dapr
-- Setup a development environment for using Dapr (self-hosted mode)
-- Implement different scenarios like state management, service to service invocation, pub-sub, distributed tracing.
-
 
 ## Next Steps
 - Learn more about Dapr at [dapr.io](dapr.io)
