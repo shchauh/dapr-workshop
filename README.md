@@ -35,7 +35,7 @@ It is expectecd to have understanding of some of the following concepts
 
 ## Dapr
 
-Microservices applications are a type of a "ditributed systems". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRpc over well defined interfaces. These services can be stateless or stateful. 
+Microservices applications are a type of "ditributed systems". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRpc over well defined interfaces. These services can be stateless or stateful. 
  
 Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, pub-sub, secret managment etc. Dapr helps to solve these common challanges and let developer focus more on building business functionality, instead of implementing common scenarios.
 
@@ -48,7 +48,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [Cloud Native Applications](https://github.com/shchauh/dapr-workshop/blob/master/background.md)
 * [Prerequisites](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md)
 * [Source code](https://github.com/shchauh/dapr-workshop/blob/master/source-code.md)
-* [HOL 1 - "Hello world" with dapr](https://github.com/dapr/samples/tree/master/1.hello-world)   
+* [HOL 1 - Hello Dapr - Implenting state management and service-service invocation](https://github.com/dapr/samples/tree/master/1.hello-world)   
 * [HOL 2 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
 * [HOL 3 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
