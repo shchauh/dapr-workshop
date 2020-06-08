@@ -46,7 +46,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 * [Source code](https://github.com/shchauh/dapr-workshop/blob/master/source-code.md)
 * [HOL 1 - Hello Dapr - Implenting state management and service-service invocation](https://github.com/dapr/samples/tree/master/1.hello-world)   
 * [HOL 2 - Implement distributed tracing](https://github.com/dapr/docs/blob/master/howto/diagnose-with-tracing/zipkin.md)
-* [HOL 3 - Implementing pub-sub with dapr](https://github.com/dapr/samples/tree/master/4.pub-sub)
+* [HOL 3 - Implementing pub-sub](https://github.com/dapr/samples/tree/master/4.pub-sub)
 * [HOL 4 - Implementing a distributed calculator](https://github.com/dapr/samples/tree/master/3.distributed-calculator)
 
 
