@@ -1,10 +1,11 @@
 For the purpose of this workshop we need to install following softwares and tools -
 
-For all the hands-on labs
-
+Prerequisites
 - [Docker](#docker)
 - [Dapr](#dapr)
 - [Git](#git)
+
+For hands-on labs
 - [Node](#node)
 - [Python](#python)
 - [Visual Studio Code](#visual-studio-code)
