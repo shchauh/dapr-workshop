@@ -3,11 +3,11 @@
 This workshop is for getting started with building microservices applications with Distributed Application Runtime(Dapr). You can check more about dapr at [dapr.io](https://dapr.io/)
 
 ## Overview & Goals
-Learn how to build microservices applications using dapr. We will build sample microservices which will use dapr for implementing different scenarios like service to service invocation, pub-sub, state management, secret management etc.
+Learn how to build microservices applications using Dapr. We will build sample microservices which will use Dapr for implementing different scenarios like service to service invocation, pub-sub, state management, secret management etc.
 
 #### This workshop is:
 * An introduction to dapr and how it enables developers to build resilient, stateful and stateless microservices applications
-* Build microservices application with dapr
+* Build microservices application with Dapr
 
 > We will run all samples in self hosted mode. No kubernetes installation is needed as part of this workshop, but can be considered as stretch goal
 
@@ -20,7 +20,7 @@ Learn how to build microservices applications using dapr. We will build sample m
 
 
 ## Target Audience
-This workshop is for software developers and architects who wants to get started with building microservices applications with dapr. 
+This workshop is for software developers and architects who wants to get started with building microservices applications with Dapr. 
 
 ## Prerequites
 It is expectecd to have understanding of some of the following concepts
@@ -56,8 +56,8 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 
 ## What you will learn during this workshop
 - Learn about Dapr
-- Setup a development environment for using dapr (self-hosted mode)
-- Implement different scenarios like state management, service to service invocation, pub-sub.
+- Setup a development environment for using Dapr (self-hosted mode)
+- Implement different scenarios like state management, service to service invocation, pub-sub, distributed tracing.
 
 
 ## Next Steps
@@ -72,9 +72,6 @@ Please let us know if you have any feedback about this workshop. We would love t
 
 ## References
 Dapr website - http://www.dapr.io
-
-Get involved with dapr community [here](https://aka.ms/dapr-community)
-
+Get involved with Dapr community [here](https://aka.ms/dapr-community)
 [.NET Architecture Guidance](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
-
 [Microservices architecture e-book](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)
