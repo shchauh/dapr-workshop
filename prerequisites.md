@@ -7,12 +7,11 @@ Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime 
 For the purpose of this workshop we need to install following softwares and tools -
 
 ## Docker
-You need to enable Hyper-V before you install Docker by running this powershell command with elevated rights -
 
-`
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V –All
-`
 Install Docker from [here](https://docs.docker.com/get-docker/)
+
+> Note : Make sure you have virtaulization enabled in your system's BIOS
+> Note : You might need to do some manual steps for windows . You check about it [here](https://success.docker.com/article/manually-enable-docker-for-windows-prerequisites)
  
 ## Dapr
 Install dapr by following these [Instructions](https://github.com/dapr/docs/blob/master/getting-started/environment-setup.md)
