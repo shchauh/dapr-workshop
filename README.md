@@ -4,8 +4,8 @@ This workshop is for getting started with building microservices applications wi
 
 - [Overview & Goals](#overview--goals)
 - [Target Audience](#target-audience)
-- [Dapr](#dapr)
 - [What you will learn during this workshop](#what-you-will-learn-during-this-workshop)
+- [Dapr](#dapr)
 - [Workshop Structure](#workshop-structure)
 - [Next Steps](#next-steps)
 - [Feedback](#feedback)
@@ -41,6 +41,11 @@ It is expectecd to have understanding of some of the following concepts
  - Visual studio code or visual studio
  - Docker and containers
  
+## What you will learn during this workshop
+- Learn about Dapr
+- Setup a development environment for using Dapr (self-hosted mode)
+- Implement different scenarios like state management, service to service invocation, pub-sub, distributed tracing.
+
 ## Dapr
 Microservices applications are a type of "ditributed systems". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRpc over well defined interfaces. These services can be stateless or stateful. 
  
@@ -49,11 +54,6 @@ Dapr is a portable, event-driven runtime for building microservices applications
 Dapr can be run either in self-hosted or Kubernetes modes. Running dapr runtime in self-hosted mode enables you to develop dapr applications in your local development environment and then deploy and run them in other supported environments. For example, you can develop Dapr applications in self-hosted mode and then deploy them to any Kubernetes cluster.
 
 For more information check [Dapr overview](https://github.com/dapr/docs/tree/master/overview)
-
-## What you will learn during this workshop
-- Learn about Dapr
-- Setup a development environment for using Dapr (self-hosted mode)
-- Implement different scenarios like state management, service to service invocation, pub-sub, distributed tracing.
 
 ## Workshop Structure
 
