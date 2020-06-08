@@ -6,4 +6,4 @@ Open command prompt and navigate to a directory/create a directory where you wan
 git clone https://github.com/dapr/samples.git
 
 ```
-> You need Git installed on your system. 
+> You need Git installed on your system. Check prerquisites article for [installing git](https://github.com/shchauh/dapr-workshop/blob/master/prerequisites.md#git)
