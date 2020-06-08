@@ -34,7 +34,7 @@ It is expectecd to have understanding of some of the following concepts
 ## Dapr
 Microservices applications are a type of "ditributed systems". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRpc over well defined interfaces. These services can be stateless or stateful. 
  
-Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, pub-sub, secret managment etc. Dapr helps to solve these common challanges and let developer focus more on building business functionality, instead of implementing common scenarios.
+Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, pub-sub, secret managment etc. Dapr helps to solve these common challanges and let developer focus on building business functionality, instead of implementing common scenarios.
 
 For more information check [Dapr overview](https://github.com/dapr/docs/tree/master/overview)
 
