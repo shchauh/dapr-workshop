@@ -1,7 +1,6 @@
-Source code for this workshop can be found at [https://github.com/dapr/samples](https://github.com/dapr/samples) from existing Dapr samples github repository.
-To get started with the hands on labs, clone this repository and follow the instructions in each sample(the one included for this workshop).
+Source code for this workshop can be found at [https://github.com/dapr/samples](https://github.com/dapr/samples) from existing Dapr samples github repository. To get started with the hands on labs, clone this repository.
 
-Open command prompt and navigate to a directory/create a directory where you want to keep the code
+Open command prompt and navigate to a directory/create a directory where you want to keep the code. The clone the samples directory with following command
 
 ```bash
 git clone https://github.com/dapr/samples.git
