@@ -15,11 +15,15 @@ For all the hands-on labs
 - [Python](#python)
 - [Go](#go)
 - [Visual Studio Code](#visual-studio-code)
+ - [Extenstions](#visual-studio-code-extenstions)
 
 For hands-on lab 4
 
 - [.Net Core SDK](#net-core-31-sdk)
 
+Optional Tools
+- [Postman](#postman)
+- [Powershell](#powershell)
 
 ## Docker
 
