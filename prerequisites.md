@@ -43,3 +43,7 @@ Install Visual Studio Code from [here](https://code.visualstudio.com/)
 - Redis extension - [link](https://marketplace.visualstudio.com/items?itemName=Dunn.redis)
 - REST client for VS code - [link](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
+
+# Optional
+
+[Powershell](https://github.com/PowerShell/Powershell)
