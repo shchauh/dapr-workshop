@@ -69,7 +69,7 @@ For more information check [Dapr overview](https://github.com/dapr/docs/tree/mas
 Please let us know if you have any feedback about this workshop. We would love to hear back from you and improve this workshop
 
 ## References
-Dapr website - http://www.dapr.io
-Get involved with Dapr community [here](https://aka.ms/dapr-community)
-[.NET Architecture Guidance](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
-[Microservices architecture e-book](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)
+- Dapr website - http://www.dapr.io
+- Get involved with Dapr community [here](https://aka.ms/dapr-community)
+- [.NET Architecture Guidance](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+- [Microservices architecture e-book](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)
