@@ -71,7 +71,7 @@ Install Visual Studio Code from [here](https://code.visualstudio.com/)
 - REST client for VS code - [link](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 
-# Optional
+# Optional Tools
 
-[Powershell](https://github.com/PowerShell/Powershell)
-[Postman](https://www.postman.com/)
+- [Powershell](https://github.com/PowerShell/Powershell)
+- [Postman](https://www.postman.com/)
