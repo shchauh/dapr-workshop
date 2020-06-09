@@ -27,7 +27,7 @@ In this workshop you will learn how to build microservices applications using Da
 * An introduction to microservices or containers, though some [background](https://github.com/shchauh/dapr-workshop/blob/master/background.md) is provided
 * A way to learn new programming languages
 
-> Ignore the Kubernetes section of each hans-on lab
+> Ignore the Kubernetes section of each hands-on lab
 
 ## Target Audience
 This workshop is for software developers and architects who wants to get started with building microservices applications with Dapr. 
@@ -38,7 +38,7 @@ It is expectecd to have understanding of some of the following concepts
  - Microservices architecture
  
  Working knowledge of 
- - Visual studio code or visual studio
+ - Visual Studio Code or Visual Studio
  - Docker and containers
  
 ## What you will learn during this workshop
@@ -47,7 +47,7 @@ It is expectecd to have understanding of some of the following concepts
 - Implement different scenarios like state management, service to service invocation, pub-sub, distributed tracing.
 
 ## Dapr
-Microservices applications are a type of "ditributed systems". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRpc over well defined interfaces. These services can be stateless or stateful. 
+Microservices applications are a type of "distributed systems". Microservices applications are composed of a number of small services communicating with each other with standerd protocols like http or gRPC over well defined interfaces. These services can be stateless or stateful. 
  
 Dapr is a portable, event-driven runtime for building microservices applications. It helps building resilient, stateful and stateless microservices applications. Each microservice application have some common challanges like state management, service to service invocation, pub-sub, secret managment etc. Dapr helps to solve these common challanges and let developer focus on building business functionality, instead of implementing common scenarios for microservices applications.
 
